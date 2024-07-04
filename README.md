@@ -1,0 +1,2 @@
+# Magazin
+ store
